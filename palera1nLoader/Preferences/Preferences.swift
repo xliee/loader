@@ -10,7 +10,7 @@ import Foundation
 /// A set of user controlled preferences.
 enum Preferences {
     static var installPathChangedCallback: ((String?) -> Void)?
-	static let defaultInstallPath: String = "https://palera.in/loaderv2.json"
+	static let defaultInstallPath: String = "https://gist.githubusercontent.com/xliee/191f1648b6d1e7dc4d3ac3d56950c203/raw/5169383d3e18504082a33254d091bd10015a5517/loaderv2.json"
 
     @Storage(key: "UserPreferredLanguageCode", defaultValue: nil, callback: preferredLangChangedCallback)
     /// Preferred language
