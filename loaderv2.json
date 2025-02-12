@@ -119,7 +119,7 @@
                 "managers": [
                     {
                         "name": "Sileo",
-                        "uri": "https://github.com/opa334/Dopamine/raw/refs/heads/2.x/Application/Dopamine/Resources/sileo.deb",
+                        "uri": "https://github.com/Sileo/Sileo/releases/download/2.5.1/org.coolstar.sileo_2.5.1_iphoneos-arm64.deb",
                         "icon": "https://palera.in/assets-config/sileo.png",
                         "filePath": "/var/jb/Applications/Sileo.app"
                     },
