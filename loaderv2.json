@@ -75,7 +75,7 @@
                 "bootstraps": [
                     {
                         "cfver": 1700,
-                        "uri": "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/bootstrap-arm64e-rootless-1700.tar.zst",
+                        "uri": "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/bootstrap-arm64-rootless-1700.tar.zst",
                         "bootstrap-debs": [
                             "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/chariz-keyring_2021.07.18_all.deb",
                             "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/havoc-keyring_2022.06.03_all.deb",
