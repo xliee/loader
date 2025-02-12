@@ -119,7 +119,7 @@
                 "managers": [
                     {
                         "name": "Sileo",
-                        "uri": "https://static.palera.in/rootless/sileo.deb",
+                        "uri": "https://github.com/opa334/Dopamine/raw/refs/heads/2.x/Application/Dopamine/Resources/sileo.deb",
                         "icon": "https://palera.in/assets-config/sileo.png",
                         "filePath": "/var/jb/Applications/Sileo.app"
                     },
