@@ -80,8 +80,7 @@
                             "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/chariz-keyring_2021.07.18_all.deb",
                             "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/havoc-keyring_2022.06.03_all.deb",
                             "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/dhinakg-keyring_2023.04.02_all.deb",
-                            "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/wget_1.24.5_iphoneos-arm64e.deb",
-                            "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/libkrw0-tfp0_1.1.1-2_iphoneos-arm64e.deb"
+                            "https://github.com/xliee/Procursus/releases/download/bootstrap-arm64e-rootless-1700.tar.zst/libkrw0-tfp0_1.1.1-2_iphoneos-arm64.deb"
                         ]
                     },
                     {
